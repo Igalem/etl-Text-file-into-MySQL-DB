@@ -19,10 +19,10 @@ import mysql.connector
 ## =================================================================> MySQL DB connection details:
 
 mysqlDS = {
-						'host' : 'eclabbdb02-etl.kenshooprd.local',
-						'user' : 'test',
-						'password' : 'test',
-						'database' : 'test'
+						'host' : 'XXXXXX',  ### Set your Hostname
+						'user' : 'XXXXXX',  ### Set your User
+						'password' : 'XXXXXX',  ### Set your Password
+						'database' : 'XXXXXX'  ### Set your database
 						}
 
 ## =================================================================> User Dialog and inputs:
