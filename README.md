@@ -1,4 +1,4 @@
-# Automation ETL (Extrat & Load) Text Files into MySQL DB
+# ETL (Automation Extrat & Load) Text Files into MySQL DB
 
 Automation Extract&amp;Load Text file types (csv / txt / TAB del) into MySQL Database
 
